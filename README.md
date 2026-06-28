@@ -4,7 +4,7 @@
 
 I build production-grade data pipelines and AI infrastructure — from real-time streaming systems to LLM fine-tuning pipelines. Currently open to **Data Engineer**, **AI Engineer**, and **ML Engineer** roles in Los Angeles.
 
-📄 [Portfolio](https://kiranmayee2408-portfolio.netlify.app/) &nbsp;|&nbsp; 📧 [Email](mailto:kiranmayeelokam8@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/lokamkiranmayee/) &nbsp;|&nbsp; 🚀 [Live Demo — LLM Dashboard](https://llm-observability-dashboard-bmhh.onrender.com/docs)
+📄 [Portfolio](https://kiranmayee2408-portfolio.netlify.app/) &nbsp;|&nbsp; 📧 [Email](mailto:lokamkiranmayee24@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/lokamkiranmayee/) &nbsp;|&nbsp; 🚀 [Live Demo — LLM Dashboard](https://llm-observability-dashboard-bmhh.onrender.com/docs)
 
 ---
 
@@ -12,7 +12,7 @@ I build production-grade data pipelines and AI infrastructure — from real-time
 
 | Project | What it does | Stack | 
 |---|---|---|
-| [LLM Observability Dashboard](https://github.com/kiranmayee2408/llm-observability-dashboard) | Track latency, cost, quality drift across LLM calls. **Live on Render.** Detected 12% faithfulness drift over 7 days. | FastAPI · SQLAlchemy · Grafana |
+| [LLM Observability Dashboard](https://github.com/kiranmayee2408/llm-observability-dashboard) | Track latency, cost, and quality drift across LLM calls. **Live on Render.** Detected 12% faithfulness drift over 7 days. | FastAPI · SQLAlchemy · Grafana |
 | [LLM Fine-tuning Pipeline](https://github.com/kiranmayee2408/llm-finetuning-pipeline) | QLoRA fine-tuning of Llama 3.2-1B. **ROUGE-L +178%, domain accuracy +163%** vs base model. Runs on 8GB GPU. | PyTorch · PEFT · TRL · HuggingFace |
 | [Production RAG Pipeline](https://github.com/kiranmayee2408/production-rag-pipeline) | 3 chunking strategies, ChromaDB/Qdrant backends, RAGAS evaluation on every query. | LangChain · ChromaDB · FastAPI |
 | [Enterprise Analytics Platform](https://github.com/kiranmayee2408/enterprise-analytics-platform) | 3-layer Snowflake warehouse. **120+ dbt tests**, Airflow 2hr SLA, GitHub Actions CI, AWS EC2. | dbt · Snowflake · Airflow · AWS |
