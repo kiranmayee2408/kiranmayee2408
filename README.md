@@ -47,7 +47,7 @@ I build production-grade data pipelines and AI infrastructure — from real-time
 
 ## 💼 Experience
 
-**Associate Data Engineer** @ Cognizant Technology Solutions *(2021–2023)*
+**Associate Data Engineer** @ Cognizant Technology Solutions *(June 2021–Dec 2023)*
 Built 12+ production pipelines processing 10M+ daily records across 3 enterprise clients. 25% latency reduction. Sapphire Award Q4 2023.
 `PySpark` `Python` `SQL` `AWS` `Hive`
 
